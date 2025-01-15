@@ -18,10 +18,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 
-## 📈 GitHub Stats
-
-![MrDx24's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrDx24&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
