@@ -11,6 +11,8 @@
 
 ## 🛠️ Technologies & Tools
 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![Springboot](https://img.shields.io/badge/-Springboot-333333?style=flat&logo=Springboot)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
