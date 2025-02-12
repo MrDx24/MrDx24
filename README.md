@@ -31,6 +31,6 @@ Cloud: ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aw
 
 - [Coderank](https://github.com/MrDx24/coderank): Engineered a secure, scalable backend for real-time code compilation, utilizing asynchronous processing for enhanced performance.
 - [Taskmaster](https://github.com/MrDx24/taskmaster): Developed a task management system with robust security features and efficient resource management through Docker.
-
+- [MultiThreaded ProxyServer](https://github.com/MrDx24/multi_threaded-proxy_server): A Multithreaded Proxy Server acts as an intermediary between clients (browsers, applications) and web servers. It forwards requests from clients to the actual web servers and returns the response, all while handling multiple client connections simultaneously using multithreading.
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
